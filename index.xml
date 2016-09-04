@@ -2,11 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://chenyali900123.github.io/</link>
+    <link>https://chenyali900123.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://chenyali900123.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2016 21:46:17 +0800</lastBuildDate>
+    <atom:link href="https://chenyali900123.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>https://chenyali900123.github.io/post/first/</link>
+      <pubDate>Sun, 04 Sep 2016 21:46:17 +0800</pubDate>
+      
+      <guid>https://chenyali900123.github.io/post/first/</guid>
+      <description>
+
+&lt;h4 id=&#34;这只是试试&#34;&gt;这只是试试&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://chenyali900123.github.io/test/</link>
+      <pubDate>Sun, 04 Sep 2016 21:43:38 +0800</pubDate>
+      
+      <guid>https://chenyali900123.github.io/test/</guid>
+      <description>
+
+&lt;h1 id=&#34;我只是打酱油的&#34;&gt;我只是打酱油的&lt;/h1&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
